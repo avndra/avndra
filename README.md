@@ -1,69 +1,21 @@
-<h1 align="center">Hi 👋, I'm Suryo</h1>
-<h3 align="center">Beginner Fullstack Developer from Indonesia</h3>
+# 💫 About Me:
+🔭 I’m currently working on Making CRUD<br>🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>🧠 Interested in Cybersecurity & Fullstack Development<br>⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+superpower!;Always+Learning+Something+New." alt="Typing SVG" />
-</p>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/30/2e/88/302e8802bb0379fcffb89a8f1350e0a5.gif" width="120" alt="Pixel animation coding" />
-</p>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/#) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__suryo__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/#) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/#) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/#) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@#) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/#) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/#) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@#) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/#) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryodewo8@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=avndra&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=avndra&theme=ambient_gradient&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 💫 About Me:
-- 🔭 I’m currently working on **Making CRUD**
-- 🌱 I’m currently learning **PHP, Node.js, Express, MongoDB, and Python**
-- 🧠 Interested in **Cybersecurity & Fullstack Development**
-- ⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=avndra&limit=5&theme=rose&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=avndra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🛠️ Languages & Tools:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,mongodb,mysql,git,figma,cursor" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avndra&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&layout=compact&theme=tokyonight" alt="langs" />
-</p>
-
----
-
-### 🧠 Contribution Insight:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avndra&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="streak" />
-</p>
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/#/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:suryodewo8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/__suryo__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/cdb8fc6ad7cd6c2f6e04d60c8d2f3e57/tumblr_pxfrr1BFyH1x5qfymo1_500.gif" width="250" alt="chill coding" />
-</p>
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
