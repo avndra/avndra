@@ -2,7 +2,7 @@
 <h3 align="center">A Beginner Fullstack Developer from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+superpower!;Always+Learning+Something+New." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Chill+While+Coding!;Still+Learning+Something+New+Like+Python." alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
