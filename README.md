@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Major+Mono+Display&weight=900&size=40&pause=1000&color=F700FF&center=true&vCenter=true&repeat=false&width=1000&lines=Hi+👋,+I'm+Avndra;Welcome+to+my+Universe+💻" alt="Animated Header" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Making CRUD<br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
@@ -48,17 +52,5 @@
 
 ---
 
-### 🌈 Footer Zone – ✨ Pixel Energy ✨
-<p align="center">
-  <img src="https://media.giphy.com/media/jR22gdcPiOLaE/giphy.gif" width="200" alt="retro coder">
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=avndra&icon=0&color=6&style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=purple&height=150&section=footer&animation=twinkling" />
-</p>
 
 <!-- Proudly crafted by AVNDRA ⚡ with coffee and pixels -->
