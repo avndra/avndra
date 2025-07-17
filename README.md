@@ -1,5 +1,8 @@
+<h1 align="center">Hi 👋, I'm Suryo</h1>
+<h3 align="center">A Beginner Fullstack Developer from Indonesia</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Major+Mono+Display&weight=900&size=40&pause=1000&color=F700FF&center=true&vCenter=true&repeat=false&width=1000&lines=Hi+👋,+I'm+Avndra;Welcome+to+my+Universe+💻" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+is+my+superpower!;Always+Learning+Something+New." alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
