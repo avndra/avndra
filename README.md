@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Nama Kamu]</h1>
+<h1 align="center">Hi 👋, I'm Suryo </h1>
 <h3 align="center">A passionate Fullstack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
@@ -8,11 +8,9 @@
 ---
 
 ### 💫 About Me:
-- 🔭 I’m currently working on **[Nama Project atau Mini Project]**
-- 🌱 I’m currently learning **Node.js, Express, MongoDB, and Python**
-- 💬 Ask me about **PHP, Laravel, JavaScript, Git, and Backend Stuff**
+- 🔭 I’m currently working on **CRUD**
+- 🌱 I’m currently learning **PHP, Node.js, Express, MongoDB, and Python**
 - 🧠 Interested in **Cybersecurity & Fullstack Development**
-- 📫 How to reach me: **[Email kamu]**
 - ⚡ Fun fact: I write code with music 🎧 and lots of coffee ☕️
 
 ---
