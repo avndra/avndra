@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Chill+While+Coding!;Still+Learning+Something+New+Like+Python." alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=purple&height=2"/>
+</p>
 # 💫 About Me:
 🔭 I’m currently working on Making CRUD<br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
@@ -46,14 +48,16 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avndra&theme=radical&hide_border=false&icon_color=ff00ff&title_color=d15eff&text_color=f7a4ff)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&background=000000&stroke=ff00ff&ring=ff00ff&fire=ff00ff&currStreakNum=f7a4ff&sideLabels=f7a4ff&dates=ffffff)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=avndra&theme=radical&hide_border=false&icon_color=ff00ff&title_color=d15eff&text_color=f7a4ff&cache_seconds=3600)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&cache_seconds=3600)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact&cache_seconds=3600)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=avndra&limit=5&theme=midnight_purple&combine_all_yearly_contributions=true)
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=140&section=footer&animation=twinkling"/>
+</p>
 
 
 <!-- Proudly crafted by AVNDRA ⚡ with coffee and pixels -->
