@@ -9,9 +9,13 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header"/>
 </p>
 
+<h2>💫 About Me</h2>
+
+<!-- Flex Container -->
 <div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Text -->
-  <div>
+  
+  <!-- Text Column -->
+  <div style="flex: 1;">
     <p>
       🔭 I’m currently working on Making CRUD<br>
       🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
@@ -20,7 +24,7 @@
     </p>
   </div>
 
-  <!-- GIF -->
+  <!-- GIF Column -->
   <div>
     <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="300px" style="border-radius: 10px;" />
   </div>
