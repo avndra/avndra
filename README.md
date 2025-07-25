@@ -2,7 +2,7 @@
 <h3 align="center">A Beginner Fullstack from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Chill+While+Coding!;Still+Learning+Something+New+Like+Py" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Chill+While+Coding!;Learning+Something+New+Like+Python" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -69,7 +69,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=50&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=80&width=900&section=footer&animation=twinkling"/>
 </p>
 
 <!-- Proudly crafted by AVNDRA -->
