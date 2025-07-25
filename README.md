@@ -11,7 +11,7 @@
 
 <h2>💫 About Me</h2>
 
-<img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="40%"/>
+<img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="60%"/>
 
 🔭 I’m currently working on Making CRUD<br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
