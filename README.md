@@ -10,12 +10,12 @@
 </p>
 
 <h2>💫 About Me</h2>
-
-<div style="display: flex; align-items: flex-start; gap: 5px; align: center;">
+<p align="center">
+<div style="display: flex; align-items: flex-start; gap: 5px;">
   <div>
     <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="260px" style="border-radius: 8px;" alt="Pixel GIF" />
   </div>
-  
+</p>
   <div>
     🔭 I’m currently working on Making CRUD<br>
     🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
