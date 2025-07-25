@@ -11,7 +11,10 @@
 
 <h2>💫 About Me</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 5px;">
+<div style="display: flex; align-items: flex-start; gap: 5px; align: center;">
+  <div>
+    <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="260px" style="border-radius: 8px;" alt="Pixel GIF" />
+  </div>
   
   <div>
     🔭 I’m currently working on Making CRUD<br>
@@ -20,9 +23,7 @@
     ⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
   </div>
 
-  <div>
-    <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="260px" style="border-radius: 8px;" alt="Pixel GIF" />
-  </div>
+  
 </div>
 
 ## 🌐 Socials:
