@@ -10,17 +10,22 @@
 </p>
 
 # 💫 About Me:
-<div align="left" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  <div>
-    🔭 I’m currently working on Making CRUD<br>
-    🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
-    🧠 Interested in Cybersecurity & Fullstack Development<br>
-    ⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
-  </div>
-</div>
-<div align="right">
-  <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="300px" style="border-radius: 32px;" alt="PixelChill"/>
-</div>
+
+<table>
+  <tr>
+    <td valign="top">
+      
+🔭 I’m currently working on Making CRUD<br>
+🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
+🧠 Interested in Cybersecurity & Fullstack Development<br>
+⚡ Fun fact: I like to code with music 🎧 and drink iced coffee ☕️
+
+    </td>
+    <td>
+      <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="200px" style="border-radius: 12px;" alt="Pixel Chill GIF"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/#) 
