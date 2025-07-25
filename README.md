@@ -9,23 +9,21 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header"/>
 </p>
 
-# 💫 About Me:
+<h2>💫 About Me</h2>
 
-<table>
-  <tr>
-    <td valign="top">
-      
-🔭 I’m currently working on Making CRUD<br>
-🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
-🧠 Interested in Cybersecurity & Fullstack Development<br>
-⚡ Fun fact: I like to code with music 🎧 and drink iced coffee ☕️
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  
+  <div>
+    🔭 I’m currently working on Making CRUD<br>
+    🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
+    🧠 Interested in Cybersecurity & Fullstack Development<br>
+    ⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
+  </div>
 
-    </td>
-    <td>
-      <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="200px" style="border-radius: 12px;" alt="Pixel Chill GIF"/>
-    </td>
-  </tr>
-</table>
+  <div>
+    <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="260px" style="border-radius: 8px;" alt="Pixel GIF" />
+  </div>
+</div>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/#) 
