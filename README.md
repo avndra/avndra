@@ -17,7 +17,7 @@
     🧠 Interested in Cybersecurity & Fullstack Development<br>
     ⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
   </div>
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="200px" style="border-radius: 12px;" alt="pixelcity"/>
+  <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="200px" style="border-radius: 12px;" alt="PixelChill"/>
 </div>
 
 ## 🌐 Socials:
@@ -59,7 +59,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=avndra&limit=5&theme=midnight_purple&combine_all_yearly_contributions=true)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JN3k8weVwFj5KU5vCN/giphy.gif" width="200px" alt="pixel" />
+  <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="300px" style="border-radius: 10px;" alt="Retro Chill Footer GIF"/>
 </p>
 
 <p align="center">
