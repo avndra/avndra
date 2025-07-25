@@ -11,12 +11,12 @@
 
 <h2>💫 About Me</h2>
 
-<img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="300"/>
+<img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="460"/>
 
 🔭 I’m currently working on Making CRUD<br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 🧠 Interested in Cybersecurity & Fullstack Development<br>
-⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️<br><br>
+⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️<br><br><br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/#) 
