@@ -11,7 +11,7 @@
 
 <h2>💫 About Me</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 5px;">
   
   <div>
     🔭 I’m currently working on Making CRUD<br>
