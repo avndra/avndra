@@ -15,16 +15,14 @@
   <div>
     <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" width="260px" style="border-radius: 8px;" alt="Pixel GIF" />
   </div>
-</p>
   <div>
     🔭 I’m currently working on Making CRUD<br>
     🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
     🧠 Interested in Cybersecurity & Fullstack Development<br>
     ⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
   </div>
-
-  
 </div>
+</p>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/#) 
