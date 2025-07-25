@@ -13,9 +13,9 @@
 
 <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="50%"/>
 
-🔭 I’m currently working on Making <i>CRUD</i><br><br>
-🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br><br>
-🧠 Interested in Cybersecurity & Fullstack Development<br><br>
+🔭 I’m currently working on Making <i>CRUD</i><br>
+🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
+🧠 Interested in Cybersecurity & Fullstack Development<br>
 ⚡ Fun fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️<br>
 <br>
 <br>
