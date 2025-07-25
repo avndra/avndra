@@ -16,7 +16,7 @@
 🔭 I’m currently working on Making CRUD<br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 🧠 Interested in Cybersecurity & Fullstack Development<br>
-⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️
+⚡ Fun fact: I like to coding with music 🎧 and drinking iced coffee ☕️<br><br>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/#) 
