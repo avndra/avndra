@@ -2,7 +2,7 @@
 <h3 align="center">A Beginner Fullstack from Indonesia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!;Chill+While+Coding!;Learning+Something+New+Like+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Chill+While+Coding;Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -64,12 +64,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=avndra&limit=5&theme=midnight_purple&combine_all_yearly_contributions=true)<br/>
 
 <p align="center">
-  <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="900px" style="border-radius: 2px;" alt="RetroChill"/>
+  <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="100%" style="border-radius: 2px;" alt="RetroChill"/>
 </p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F00FF&height=80&width=900&section=footer&animation=twinkling"/>
-</p>
-
 <!-- Proudly crafted by AVNDRA -->
