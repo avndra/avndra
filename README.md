@@ -58,7 +58,7 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
-<img src="https://raw.githubusercontent.com/avndra/avndra/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/avndra/output/snake.svg" alt="Snake animation" />
 
 ###
 
