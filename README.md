@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Suryo</h1>
 <h3 align="center">A Beginner Fullstack from Indonesia</h3>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=avndra&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Chill+While+Coding;Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header"/>
-</p>
+</p><br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=avndra&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <h2>💫 About Me</h2>
 
