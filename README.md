@@ -57,11 +57,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=avndra&theme=radical&hide_border=false&icon_color=ff00ff&title_color=d15eff&text_color=f7a4ff&cache_seconds=3600)<br/>
-![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&cache_seconds=3600)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact&cache_seconds=3600)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=avndra&limit=5&theme=midnight_purple&combine_all_yearly_contributions=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&cache_seconds=3600) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact&cache_seconds=3600)
 
 <p align="center">
   <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="100%" style="border-radius: 2px;" alt="RetroChill"/>
