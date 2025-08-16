@@ -16,7 +16,10 @@
 🔭 I’m currently working on Making <i>CRUD</i><br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 🧠 Interested in Cybersecurity & Fullstack Development<br>
-⚡ Fun fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️<br>
+⚡ Fun fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
+<div>
+<img src:"https://github-profile-trophy.vercel.app/?username=avndra&theme=dracula&title=Repositories&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt"trophy"/>
+</div>
 <br>
 <br>
 <br>
@@ -56,7 +59,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avndra&theme=radical&hide_border=false&icon_color=ff00ff&title_color=d15eff&text_color=f7a4ff&cache_seconds=3600)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&cache_seconds=3600) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact&cache_seconds=3600)
 
 <p align="center">
