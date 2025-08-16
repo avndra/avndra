@@ -18,7 +18,7 @@
 🧠 Interested in Cybersecurity & Fullstack Development<br>
 ⚡ Fun fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
 <div>
-<img src:"https://github-profile-trophy.vercel.app/?username=avndra&theme=dracula&title=Repositories&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt"trophy"/>
+<img src:"https://github-profile-trophy.vercel.app/?username=avndra&title=Commits,Repositories" height="150" alt"trophy"/>
 </div>
 <br>
 <br>
