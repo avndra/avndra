@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suryo</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Suryo</h1>
 <h3 align="center">A Beginner Fullstack from Indonesia</h3>
 
 <p align="center">
@@ -7,11 +7,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header"/>
-</p><br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=avndra&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+</p>
 
 <h2>💫 About Me</h2>
 
