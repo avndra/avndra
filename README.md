@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Suryo</h1>
+![snake](https://github.com/user-attachments/assets/450add19-002d-46b3-865b-d2a16369e6b3)<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Suryo</h1>
 <h3 align="center">A Beginner Fullstack from Indonesia</h3>
 
 <p align="center">
@@ -58,14 +58,13 @@
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
 
-<img src="https://raw.githubusercontent.com/avndra/output/snake.svg" alt="Snake animation" />
-
-###
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&cache_seconds=3600) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact&cache_seconds=3600)
 
 <p align="center">
   <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="100%" style="border-radius: 2px;" alt="RetroChill"/>
 </p>
+###
+<img src="https://raw.githubusercontent.com/avndra/avndra/output/snake.svg" alt="Snake animation" />
+
 <!-- Proudly crafted by AVNDRA -->
