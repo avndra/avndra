@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" />, I'm Suryo</h1>
-<h3 align="center">A Beginner Fullstack from Indonesia</h3>
+<h3 align="center">A Junior Developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=09F7F7&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile;Chill+While+Coding;Learning+Something+New" alt="Typing SVG" />
