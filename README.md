@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header"/>
+  
 </p>
 
 <h2>💫 About Me</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header" width="110%"/>
-<img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="50%"/>
 
 🔭 I’m currently working on Making <i>CRUD</i><br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
