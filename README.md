@@ -16,11 +16,11 @@
 
 
 
-<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  I’m currently working on Making <i>CRUD</i><br>
+<img src="https://64.media.tumblr.com/6b39777c4c482087976d543294132a8b/a84fecc34147a32c-af/s75x75_c1/819ac7d1436f8e31741134058411d0ebcc621dbc.gif" width="40">  I’m currently working on Making <i>CRUD</i><br>
 
-<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
+<img src="https://64.media.tumblr.com/4a91b94bc327284d213f03aa21afa771/7699183cb0f37270-22/s75x75_c1/d9015ac28578a6803ac3bc62509ab628195d777d.gif" width="40">  I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 
-<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Interested in Cybersecurity & Fullstack Development<br>
+<img src="https://64.media.tumblr.com/6070f3d4b0989d20e3621dc803c5ea5a/a84fecc34147a32c-ef/s75x75_c1/c44b700e9b0774621b45ef6b67a661bf22999065.gif" width="40">  Interested in Cybersecurity & Fullstack Development<br>
 
 <img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Random fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
 
