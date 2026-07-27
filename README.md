@@ -11,13 +11,16 @@
 
 <h2>💫 About Me</h2>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header" width="110%"/>
+<img src="https://64.media.tumblr.com/7eaa0df477d3e471cece679f9b0d4bf0/784421ca5c89a9a8-1f/s400x600/dd2c0419bd61d1e3dbda4e22c36e52ef415ac207.gif"
+     align="right" width="250" style="border: 4px solid gray; border-radius: 15px;" />
+
+
 
 🔭 I’m currently working on Making <i>CRUD</i><br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 🧠 Interested in Cybersecurity & Fullstack Development<br>
 ⚡ Random fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
-<img src="https://64.media.tumblr.com/7eaa0df477d3e471cece679f9b0d4bf0/784421ca5c89a9a8-1f/s400x600/dd2c0419bd61d1e3dbda4e22c36e52ef415ac207.gif"
-     align="right" width="250" style="border: 4px solid gray; border-radius: 15px;" />
+
 <div>
 <img src:"https://github-profile-trophy.vercel.app/?username=avndra&title=Commits,Repositories" height="150" alt"trophy"/>
 </div>
