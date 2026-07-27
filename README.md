@@ -10,7 +10,7 @@
 </p>
 
 <h2>💫 About Me</h2>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header"/>
 <img src="https://i.pinimg.com/originals/c1/b3/16/c1b31611e66b7c211bfd0296dd454bfb.gif" align="right" width="50%"/>
 
 🔭 I’m currently working on Making <i>CRUD</i><br>
@@ -53,8 +53,7 @@
 
 ![snake](https://github.com/user-attachments/assets/450add19-002d-46b3-865b-d2a16369e6b3)
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com?user=avndra&theme=radical&hide_border=false&cache_seconds=3600) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=avndra&theme=radical&hide_border=false&layout=compact&cache_seconds=3600)
+
 
 <p align="center">
   <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="100%" style="border-radius: 2px;" alt="RetroChill"/>
