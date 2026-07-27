@@ -16,11 +16,11 @@
 
 
 
-🔭 I’m currently working on Making <i>CRUD</i><br>
+<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  I’m currently working on Making <i>CRUD</i><br>
 
-🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
+<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 
-🧠 Interested in Cybersecurity & Fullstack Development<br>
+<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Interested in Cybersecurity & Fullstack Development<br>
 
 <img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Random fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
 
