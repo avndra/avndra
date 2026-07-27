@@ -19,7 +19,7 @@
 🔭 I’m currently working on Making <i>CRUD</i><br>
 🌱 I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 🧠 Interested in Cybersecurity & Fullstack Development<br>
-⚡ Random fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
+<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="10"> Random fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
 
 <div>
 <img src:"https://github-profile-trophy.vercel.app/?username=avndra&title=Commits,Repositories" height="150" alt"trophy"/>
