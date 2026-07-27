@@ -9,7 +9,7 @@
   
 </p>
 
-<h2>💫 About Me</h2>
+<h2><img src="https://64.media.tumblr.com/684a8b61e267c5302e8a1afe4b03dea8/e64b15399ac6bf66-33/s75x75_c1/9a9c9a9ba1eef06d6e22c6a70d83355922757ea3.gif" width="40"> About Me</h2>
 
 <img src="https://64.media.tumblr.com/7eaa0df477d3e471cece679f9b0d4bf0/784421ca5c89a9a8-1f/s400x600/dd2c0419bd61d1e3dbda4e22c36e52ef415ac207.gif"
      align="right" width="350" style="border: 4px solid gray; border-radius: 15px;" />
@@ -20,7 +20,7 @@
 
 <img src="https://64.media.tumblr.com/4a91b94bc327284d213f03aa21afa771/7699183cb0f37270-22/s75x75_c1/d9015ac28578a6803ac3bc62509ab628195d777d.gif" width="40">  I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 
-<img src="https://64.media.tumblr.com/6070f3d4b0989d20e3621dc803c5ea5a/a84fecc34147a32c-ef/s75x75_c1/c44b700e9b0774621b45ef6b67a661bf22999065.gif" width="40">  Interested in Cybersecurity & Fullstack Development<br>
+<img src="https://64.media.tumblr.com/6070f3d4b0989d20e3621dc803c5ea5a/a84fecc34147a32c-ef/s75x75_c1/c44b700e9b0774621b45ef6b67a661bf22999065.gif" width="40">  Interested in Cybersecurity, Fullstack Dev, Game Dev & Pixel<br>
 
 <img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Random fact: I like to <i>coding with music</i> 🎧 and drinking iced <i>coffee</i> ☕️
 
