@@ -10,7 +10,7 @@
 </p>
 
 <h2>💫 About Me</h2>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header" width="110%"/>
+
 <img src="https://64.media.tumblr.com/7eaa0df477d3e471cece679f9b0d4bf0/784421ca5c89a9a8-1f/s400x600/dd2c0419bd61d1e3dbda4e22c36e52ef415ac207.gif"
      align="right" width="350" style="border: 4px solid gray; border-radius: 15px;" />
 
@@ -57,7 +57,7 @@
 
 ![snake](https://github.com/user-attachments/assets/450add19-002d-46b3-865b-d2a16369e6b3)
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header" width="110%"/>
 
 <p align="center">
   <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="100%" style="border-radius: 2px;" alt="RetroChill"/>
