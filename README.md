@@ -15,7 +15,7 @@
 
 
 
-<h4 style="border:none; margin:0;"><img src="https://64.media.tumblr.com/6b39777c4c482087976d543294132a8b/a84fecc34147a32c-af/s75x75_c1/819ac7d1436f8e31741134058411d0ebcc621dbc.gif" width="40">  I’m currently working on Making <i>CRUD</i><br></h4>
+<h4 style="border:none; margin:0; align=center;"><img src="https://64.media.tumblr.com/6b39777c4c482087976d543294132a8b/a84fecc34147a32c-af/s75x75_c1/819ac7d1436f8e31741134058411d0ebcc621dbc.gif" width="40">  I’m currently working on Making <i>CRUD</i><br></h4>
 
 <img src="https://64.media.tumblr.com/4a91b94bc327284d213f03aa21afa771/7699183cb0f37270-22/s75x75_c1/d9015ac28578a6803ac3bc62509ab628195d777d.gif" width="40">  I’m currently learning PHP, Node.js, Express, MongoDB, and Python<br>
 
