@@ -7,32 +7,6 @@
 </p>
 
 
-<div class="sprite-container">
-  <img src="https://64.media.tumblr.com/7d6891b45725be58e28020c6959f8d12/4a16c67e8c4fe015-5a/s640x960/e8390611a5ee4c4b2fa3cf4c5d30917defff1dae.gif" 
-       alt="Sprite berjalan" class="sprite" />
-</div>
-
-<style>
-.sprite-container {
-  position: relative;
-  width: 100%;   /* area berjalan penuh */
-  height: 150px; /* sesuaikan tinggi sprite */
-  overflow: hidden;
-}
-
-.sprite {
-  position: absolute;
-  top: 0;
-  left: 100%; /* mulai dari kanan */
-  animation: walk-left 8s linear infinite;
-}
-
-@keyframes walk-left {
-  from { left: 100%; }
-  to   { left: -120px; } /* sesuaikan dengan lebar sprite */
-}
-</style>
-
 
 <h2><img src="https://64.media.tumblr.com/684a8b61e267c5302e8a1afe4b03dea8/e64b15399ac6bf66-33/s75x75_c1/9a9c9a9ba1eef06d6e22c6a70d83355922757ea3.gif" width="40"> About Me</h2>
 
