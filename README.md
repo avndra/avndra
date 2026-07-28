@@ -21,7 +21,7 @@
 
 <img src="https://64.media.tumblr.com/6070f3d4b0989d20e3621dc803c5ea5a/a84fecc34147a32c-ef/s75x75_c1/c44b700e9b0774621b45ef6b67a661bf22999065.gif" width="40">  Interested in Cybersecurity, Fullstack Dev, Game Dev & Pixel<br>
 
-<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Random fact: I like to <i>coding with music</i> <img src="https://64.media.tumblr.com/2283c79fe563b96f64456ee4e446f367/fecbcebcddfc530b-04/s75x75_c1/03b00efbb684d969933a1738cf1d0293f86d81aa.gif" width="20"> and drinking <i width="50">coffee</i> <img src="https://64.media.tumblr.com/e8d59e9a8a558d87e4d15a714dcfeb2a/3896c4bf5d7339e5-02/s1280x1920/c79fb6e1a0dd533a2334e477c07b16e13b959297.gif" width="40">
+<img src="https://64.media.tumblr.com/18440d548f2c99ee1d5b26f38c70aaf6/7699183cb0f37270-c8/s75x75_c1/5d02c4e3dae65065531a90f0da2117a0066ddd64.gif" width="40">  Random fact: I like to <i>coding with music</i> <img src="https://64.media.tumblr.com/2283c79fe563b96f64456ee4e446f367/fecbcebcddfc530b-04/s75x75_c1/03b00efbb684d969933a1738cf1d0293f86d81aa.gif" width="20"> and drinking <i width="50">coffee</i> <img src="https://media.tenor.com/9pxfCaf54vMAAAAi/gmail-pixel-art.gif" width="40">
 
 <div>
 <img src:"https://github-profile-trophy.vercel.app/?username=avndra&title=Commits,Repositories" height="150" alt"trophy"/>
