@@ -55,9 +55,5 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=7F00FF,F797FF,E100FF&height=4&section=header" width="110%"/>
 
-<p align="center">
-  <img src="https://i0.wp.com/64.media.tumblr.com/eb9d83900abde73d3d323019a45f3f8e/tumblr_om91agCwBL1rnbw6mo1_1280.gif" width="100%" style="border-radius: 2px;" alt="RetroChill"/>
-</p>
-
 
 <!-- Sawit Enak AH -->
